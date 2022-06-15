@@ -1,6 +1,6 @@
 ---
 title: "Timeline-in-Progress of 19th century Chicago"
-excerpt: 'Working with Knight Labs TimlineJS to build out a chronology of major events in nineteenth-century Chicago, with an eye to food provisioning, labor, and consumption'
+excerpt: 'Working with Knight Labs TimlineJS to build out a chronology of major events in nineteenth-century Chicago, with an eye to food provisioning, labor, and consumption.'
 overlay_image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Looking_West_From_Peristyle%2C_Court_of_Honor_and_Grand_Basin%2C_1893.jpg/2560px-Looking_West_From_Peristyle%2C_Court_of_Honor_and_Grand_Basin%2C_1893.jpg'
 teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/1898_Bird%27s_Eye_View_of_Chicago.jpg/220px-1898_Bird%27s_Eye_View_of_Chicago.jpg"
 contributors:
