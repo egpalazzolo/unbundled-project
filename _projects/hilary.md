@@ -4,13 +4,10 @@ excerpt: 'The 2021 World Press Freedom Index compiled by Reporters Without Borde
 overlay_image: ' https://www.rcmediafreedom.eu/var/ezdemo_site/storage/images/tools/monitoring-tools/2021-world-press-freedom-index/58924-1-eng-GB/2021-World-Press-Freedom-Index_galleryfull.png'
 teaser: "https://www.rcmediafreedom.eu/var/ezdemo_site/storage/images/tools/monitoring-tools/2021-world-press-freedom-index/58924-1-eng-GB/2021-World-Press-Freedom-Index_galleryfull.png"
 contributors:
-  - name: Excellent Senior
-    bio: ('19) is an English major and Gender and Sexuality studies and Peace and Conflict studies dual-minor. She is interested continuing counter-hegemonic work in the non-profit sector next year, specifically working in the Pittsburgh Queer Equality Center.
-    image: /assets/images/tinder.jpg
-  - name: George Romero
-    image: https://pbs.twimg.com/profile_images/359264700/RomeroAvatar_400x400.jpg
-    bio: Born in the New York City borough of the Bronx. He is the son of Ann (Dvorsky) and George Romero, a commercial artist. His mother was Lithuanian and his father moved from Spain to Cuba as a child.
-    twitter: OfficialRomero
+  - name: Hilary Bussell
+    image: https://pbs.twimg.com/profile_images/1536907521402839041/D0EwY-vN_400x400.jpg
+    bio: Hilary is an academic librarian who lives in a converted brewery with her spouse and cats.
+    twitter: @hilarycbus
 ---
 
 <iframe src="https://ourworldindata.org/grapher/press-freedom-rsf" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
