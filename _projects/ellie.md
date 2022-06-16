@@ -4,8 +4,9 @@ excerpt: 'Working with Knight Labs TimlineJS to build out a chronology of major 
 overlay_image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Looking_West_From_Peristyle%2C_Court_of_Honor_and_Grand_Basin%2C_1893.jpg/2560px-Looking_West_From_Peristyle%2C_Court_of_Honor_and_Grand_Basin%2C_1893.jpg'
 teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/1898_Bird%27s_Eye_View_of_Chicago.jpg/220px-1898_Bird%27s_Eye_View_of_Chicago.jpg"
 contributors:
-  - name: Ellie Palazzolo
-    bio: History PhD student trying to write a dissertation...
+  - name: **Ellie Palazzolo**
+    bio: PhD candidate in history, trying to write a dissertation...
+    image: 'https://krieger.jhu.edu/history/wp-content/uploads/sites/32/2019/08/EPalazzolo.jpg'
     twitter: egpalazzolo
 ---
 
