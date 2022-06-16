@@ -5,7 +5,7 @@ overlay_image: 'https://www.ps33chelseaprep.org/uploads/3/3/2/0/3320309/img-1478
 teaser: "https://www.ps33chelseaprep.org/uploads/3/3/2/0/3320309/img-1478-copy-2.jpg"
 contributors:
   - name: Rachel Klepper
-    bio: bio
+    bio: is a PhD candidate in History and Education at Teachers College, Columbia University
     image: /assets/images/tinder.jpg
 
 ---
